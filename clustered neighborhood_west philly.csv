@@ -1,0 +1,26 @@
+Borough,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+West Philadelphia,Woodland Terrace,39.948889,-75.205278,0,Pizza Place,Coffee Shop,Bar,Arcade,Park,Bookstore,Mexican Restaurant,College Bookstore,Farmers Market,Sandwich Place
+West Philadelphia,Wynnefield,39.989000000000004,-75.233,0,Pizza Place,Food,Moving Target,Salon / Barbershop,Yoga Studio,Ethiopian Restaurant,Flea Market,Fast Food Restaurant,Farmers Market,Event Space
+West Philadelphia,Mantua,39.964,-75.194,0,Pizza Place,Bakery,Light Rail Station,Photography Studio,Chinese Restaurant,Gym,Event Space,Food,Flea Market,Fast Food Restaurant
+West Philadelphia,Wynnefield Heights,40.001999999999995,-75.209,1,Pizza Place,Residential Building (Apartment / Condo),Optical Shop,Middle Eastern Restaurant,Shopping Plaza,Rugby Pitch,Grocery Store,Discount Store,Bus Station,Donut Shop
+West Philadelphia,Spruce Hill,39.954,-75.21,1,Middle Eastern Restaurant,Pizza Place,Hookah Bar,Gas Station,Art Gallery,Vietnamese Restaurant,Pakistani Restaurant,Grocery Store,Ethiopian Restaurant,Café
+West Philadelphia,Overbrook Park,39.977,-75.265,1,Pharmacy,Fried Chicken Joint,American Restaurant,Video Store,Diner,Pizza Place,Fast Food Restaurant,Bagel Shop,Grocery Store,Event Space
+West Philadelphia,Squirrel Hill,39.945,-75.21300000000001,1,Light Rail Station,Pizza Place,Vietnamese Restaurant,Indian Restaurant,Park,Donut Shop,Food Truck,Yoga Studio,Moving Target,Caribbean Restaurant
+West Philadelphia,Haverford North,39.9653,-75.2066,1,Breakfast Spot,Recreation Center,Pizza Place,Intersection,Art Gallery,Mobile Phone Shop,Tram Station,Discount Store,Caribbean Restaurant,Bakery
+West Philadelphia,University City,39.953610999999995,-75.198611,1,Sandwich Place,Food Truck,Pizza Place,Coffee Shop,Donut Shop,Salad Place,Bookstore,Mexican Restaurant,Chinese Restaurant,Indian Restaurant
+West Philadelphia,Garden Court,39.951944,-75.218611,1,Deli / Bodega,Indian Restaurant,Chinese Restaurant,Middle Eastern Restaurant,Sandwich Place,Mexican Restaurant,Diner,Flea Market,Seafood Restaurant,Caribbean Restaurant
+West Philadelphia,Dunlap,39.961,-75.222,1,Bar,Clothing Store,Breakfast Spot,Pizza Place,Shoe Store,Discount Store,Caribbean Restaurant,Chinese Restaurant,Food,Lounge
+West Philadelphia,Cobbs Creek,39.952912,-75.23592,1,Sandwich Place,Seafood Restaurant,Park,Spanish Restaurant,Intersection,Dessert Shop,Diner,Discount Store,Dive Bar,Donut Shop
+West Philadelphia,Cedar Park,39.946999999999996,-75.21600000000001,1,Ethiopian Restaurant,Indian Restaurant,Chinese Restaurant,Grocery Store,Dive Bar,Convenience Store,Deli / Bodega,Playground,Pizza Place,Dessert Shop
+West Philadelphia,Walnut Hill,39.955999999999996,-75.219,1,Deli / Bodega,Chinese Restaurant,Pharmacy,Convenience Store,Caribbean Restaurant,Bus Station,Pizza Place,Food & Drink Shop,Food Truck,Clothing Store
+West Philadelphia,Black Bottom,39.9574,-75.1978,1,Pizza Place,Coffee Shop,Donut Shop,Food Truck,Indian Restaurant,Sandwich Place,Gym,Performing Arts Venue,Korean Restaurant,Restaurant
+West Philadelphia,Saunders Park,39.959,-75.199,1,Donut Shop,Cosmetics Shop,Coffee Shop,Lounge,Tapas Restaurant,Performing Arts Venue,Office,Chinese Restaurant,Sandwich Place,Café
+West Philadelphia,Powelton Village,39.959722,-75.190278,1,Food Truck,Pizza Place,Sandwich Place,Coffee Shop,Recreation Center,Bubble Tea Shop,Burger Joint,Convenience Store,Creperie,Dessert Shop
+West Philadelphia,Belmont District,39.966667,-75.205,2,Breakfast Spot,Seafood Restaurant,Pizza Place,Mobile Phone Shop,Light Rail Station,Caribbean Restaurant,Event Space,Yoga Studio,Flea Market,Fast Food Restaurant
+West Philadelphia,Overbrook Farms,39.986389,-75.25361099999999,2,Intersection,Pizza Place,Deli / Bodega,Chinese Restaurant,Farmers Market,Southern / Soul Food Restaurant,Trail,Dessert Shop,Diner,Design Studio
+West Philadelphia,Haddington,39.961389000000004,-75.24194399999999,2,Intersection,Bakery,Dance Studio,Dessert Shop,Pizza Place,Seafood Restaurant,Sports Bar,Deli / Bodega,Gym,Hotpot Restaurant
+West Philadelphia,Cathedral Park,39.973,-75.236,2,Southern / Soul Food Restaurant,Light Rail Station,Deli / Bodega,Park,Intersection,Pizza Place,Asian Restaurant,Breakfast Spot,Chinese Restaurant,Food
+West Philadelphia,Carroll Park,39.973,-75.236,2,Southern / Soul Food Restaurant,Light Rail Station,Deli / Bodega,Park,Intersection,Pizza Place,Asian Restaurant,Breakfast Spot,Chinese Restaurant,Food
+West Philadelphia,Overbrook,39.988,-75.25,2,Deli / Bodega,Intersection,Pizza Place,Breakfast Spot,Southern / Soul Food Restaurant,Indian Restaurant,Train Station,Train,Trail,Gym
+West Philadelphia,Parkside,39.973889,-75.20666700000001,3,Bar,Baseball Field,Art Gallery,Auto Garage,Sculpture Garden,Food Truck,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant
+West Philadelphia,Mill Creek,39.966,-75.21600000000001,4,Intersection,Discount Store,Bus Stop,Convenience Store,Park,Liquor Store,Fast Food Restaurant,Food & Drink Shop,Food,Flea Market
