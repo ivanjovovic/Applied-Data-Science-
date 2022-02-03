@@ -7,4 +7,4 @@ The csv files are input and output data
 
 The Jupyter notebook is the source code for the capstone project
 
-The test file is just a test file and is useless
+
